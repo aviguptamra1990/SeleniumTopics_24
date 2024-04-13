@@ -1,1 +1,3 @@
-this is text file for git to download latest remote github repo code (git pull origin master)
+this is text file for git to download latest remote github repo code 
+
+CMD : git pull origin master
