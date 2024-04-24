@@ -29,7 +29,7 @@
         <version>3.2.5</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>Parallel_Testing_VIA_Methods.xml</suiteXmlFile>
+            <suiteXmlFile>Parameter_Testing.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
