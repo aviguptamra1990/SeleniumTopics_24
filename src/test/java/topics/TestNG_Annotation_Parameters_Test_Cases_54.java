@@ -26,8 +26,8 @@ public class TestNG_Annotation_Parameters_Test_Cases_54 {
 		
 		Thread.sleep(1000);
 		
-		driver.findElement(By.name("qq")).sendKeys(param1 + param2,Keys.ENTER);
-		System.out.println("Param 1 Entered");
+		driver.findElement(By.name("q")).sendKeys(param1 + param2,Keys.ENTER);
+		System.out.println("Params 1 Entered");
 		
 		
 	}
@@ -46,7 +46,7 @@ public class TestNG_Annotation_Parameters_Test_Cases_54 {
 		Thread.sleep(1000);
 		
 		driver.findElement(By.name("q")).sendKeys(param1 + param2,Keys.ENTER);
-		System.out.println("Param 2 Entered");
+		System.out.println("Params 2 Entered");
 		
 	}
 
