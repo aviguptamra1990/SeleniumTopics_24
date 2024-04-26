@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="Value3" value="Selenium"/>
+  <parameter name="Value4" value="Python"/>
+  <parameter name="Value1" value="Selenium"/>
+  <parameter name="Value2" value="Java"/>
+  <test name="Test(failed)">
+    <classes>
+      <class name="topics.TestNG_Annotation_Parameters_Test_Cases_54">
+        <methods>
+          <include name="getTitle" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- topics.TestNG_Annotation_Parameters_Test_Cases_54 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
