@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-24T23:44:19Z" name="Suite" finished-at="2024-04-24T23:44:29Z" duration-ms="9481">
+  <suite started-at="2024-04-26T11:10:33Z" name="Suite" finished-at="2024-04-26T11:10:46Z" duration-ms="12769">
     <groups>
     </groups>
-    <test started-at="2024-04-24T23:44:19Z" name="Test" finished-at="2024-04-24T23:44:29Z" duration-ms="9481">
+    <test started-at="2024-04-26T11:10:33Z" name="Test" finished-at="2024-04-26T11:10:46Z" duration-ms="12769">
       <class name="topics.TestNG_Annotation_Parameters_Test_Cases_54">
-        <test-method signature="getCurrentURL(java.lang.String, java.lang.String)[pri:0, instance:topics.TestNG_Annotation_Parameters_Test_Cases_54@7f485fda]" started-at="2024-04-25T05:14:19Z" name="getCurrentURL" finished-at="2024-04-25T05:14:25Z" duration-ms="5879" status="PASS">
+        <test-method signature="getCurrentURL(java.lang.String, java.lang.String)[pri:0, instance:topics.TestNG_Annotation_Parameters_Test_Cases_54@7f485fda]" started-at="2024-04-26T16:40:33Z" name="getCurrentURL" finished-at="2024-04-26T16:40:41Z" duration-ms="8079" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getCurrentURL -->
-        <test-method signature="getTitle(java.lang.String, java.lang.String)[pri:0, instance:topics.TestNG_Annotation_Parameters_Test_Cases_54@7f485fda]" started-at="2024-04-25T05:14:25Z" name="getTitle" finished-at="2024-04-25T05:14:29Z" duration-ms="3582" status="PASS">
+        <test-method signature="getTitle(java.lang.String, java.lang.String)[pri:0, instance:topics.TestNG_Annotation_Parameters_Test_Cases_54@7f485fda]" started-at="2024-04-26T16:40:41Z" name="getTitle" finished-at="2024-04-26T16:40:46Z" duration-ms="4664" status="PASS">
           <params>
             <param index="0">
               <value>
