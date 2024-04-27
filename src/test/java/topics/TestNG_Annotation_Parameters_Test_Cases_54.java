@@ -44,7 +44,7 @@ public class TestNG_Annotation_Parameters_Test_Cases_54 {
 		driver.get("https://www.google.com");
 
 		Thread.sleep(1000);
-		
+	
 		driver.findElement(By.name("q")).sendKeys(param1 + param2,Keys.ENTER);
 		System.out.println("Params 2 Entered");
 		
