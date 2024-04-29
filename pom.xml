@@ -8,7 +8,6 @@
   <properties>
   
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
-    <browserProperty>Chrome</browserProperty>
   </properties>
   
   <build>
@@ -33,12 +32,6 @@
           <suiteXmlFiles>
             <suiteXmlFile>Parameter_Testing.xml</suiteXmlFile>
           </suiteXmlFiles>
-          <systemPropertyVariables> 
-			  
-			  <browserProperty>${browserProperty}</browserProperty>
-			  
-			  
-		  </systemPropertyVariables>
         </configuration>
       </plugin>
  
